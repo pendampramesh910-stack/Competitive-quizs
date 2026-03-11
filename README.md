@@ -1,2 +1,2 @@
-# Competitive-quizs
+Competitive-quizs
 Education 
